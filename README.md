@@ -34,7 +34,7 @@ Este sistema inovador pode ser aplicado em diversos setores para analisar feedba
 
 O sistema de sumarização automática de comentários de clientes com IA é uma ferramenta poderosa que oferece diversos benefícios para empresas que buscam aprimorar a análise de feedback, tomar decisões mais assertivas e oferecer uma experiência superior aos seus clientes.
 
-**Repositórios Do Projeto**
+**Repositórios Do Projeto:**
 
-Repositório Front-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Front-end
-Repositório Back-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Back-end
+* Repositório Front-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Front-end
+* Repositório Back-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Back-end
