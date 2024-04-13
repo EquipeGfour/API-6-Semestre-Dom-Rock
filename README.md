@@ -38,3 +38,4 @@ O sistema de sumarização automática de comentários de clientes com IA é uma
 
 * Repositório Front-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Front-end
 * Repositório Back-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Back-end
+* Repositório PLN: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-PLN
