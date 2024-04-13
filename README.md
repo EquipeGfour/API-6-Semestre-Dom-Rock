@@ -39,3 +39,20 @@ O sistema de sumarização automática de comentários de clientes com IA é uma
 * Repositório Front-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Front-end
 * Repositório Back-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Back-end
 * Repositório PLN: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-PLN
+
+
+<h2> 🎓 Equipe GFour</h2>
+    
+
+Integrantes da Equipe | Função | Linkedin | Github| 
+:--------- | :-------: | :-------: | :-------: |
+Natália Bessa de Moura | Dev | [Linkedin](https://www.linkedin.com/in/natalia-bessa-59b671220/) | [Github](https://github.com/lirabessa)|
+Rodrigo Ribeiro dos Santos | Dev | [Linkedin](https://www.linkedin.com/in/rodrigo-ribeiro-5008211b8/) | [Github](https://github.com/rodrigoribeiro027)|
+Rafael Peressoni Waltrick | PO | [Linkedin](https://www.linkedin.com/in/rafael-p-waltrick-7211b4221) |  [Github](https://github.com/rafawaltrick)|
+Nicolas Lima de Holanda Galindo | Dev | [Linkedin](https://www.linkedin.com/in/nicolas-lima-2a75a3220/) | [Github](https://github.com/Nicolas734)|
+Kevin Ferreira Mirenda | SM | [Linkedin](https://br.linkedin.com/in/vin%C3%ADcius-barbosa-78111a206?trk) | [Github](https://github.com/KevinFMfatec)
+Raniel Francisco Santos de Paula | Dev | [Linkedin](https://www.linkedin.com/in/raniel-santos-204878222/)| [Github](https://github.com/Raniel-Santos)|
+Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-mirenda-a54a64220) | [Github](https://github.com/ViniciusAndBar)
+
+<br>
+
