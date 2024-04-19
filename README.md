@@ -56,3 +56,84 @@ Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-m
 
 <br>
 
+## Requisitos Funcionais:
+
+### Frontend:
+
+* Autenticação de usuário
+* Upload de arquivo de comentários em formato CSV ou TXT
+* Acompanhamento do processamento em tempo real com barra de progresso e estimativa de tempo restante
+* Dashboard com visualização dos sumários:
+* Por produto e categorias
+* Por recomendação (positiva, neutra, negativa)
+* Por geografia e demografia
+* Gráficos e tabelas interativos para melhor análise dos dados
+* Filtros para refinar a visualização dos resultados
+* Opção de download dos sumários em formato PDF ou CSV
+
+<br>
+
+### Backend:
+
+* API REST documentada para comunicação com o frontend
+* Processamento assíncrono dos arquivos de comentários
+* Implementação do modelo PLN de sumarização de textos
+* Armazenamento dos dados e resultados em banco de dados
+* Gerenciamento de usuários e permissões
+
+<br>
+
+### PLN:
+
+* Treinamento de modelo de sumarização de textos com base em dataset específico de comentários de clientes
+* Otimização do modelo para melhor desempenho e qualidade dos sumários
+* Adaptação do modelo para diferentes tipos de produtos e categorias
+* Identificação de entidades e sentimentos nos comentários
+* Geração de resumos concisos e informativos
+
+<br>
+
+### Requisitos Não Funcionais:
+
+* Interface web amigável e intuitiva
+* Aplicação web responsiva para acesso em diferentes dispositivos
+* Segurança da informação com criptografia de dados e autenticação de usuários
+* Desempenho eficiente e escalável para lidar com grandes volumes de dados
+* Documentação completa da API REST e do código-fonte
+* Monitoramento do sistema e logs de erros
+
+<br>
+
+### Tecnologias Utilizadas
+
+* Figma: Para o Mockup
+* MySql: Para o banco de dados
+* Python: Para a PLN
+* Python com o Framework FastAPI: Para o Backend
+* JavaScrip com React: Para o Frontend
+
+<br>
+
+
+<details>
+     <summary><h2>Primeira Sprint</h2></summary>
+
+### Entregáveis:
+    
+* Pré-processamento
+* Upload de arquivos
+* Tela de visualização do processamento
+
+</details>
+
+<details>
+    <summary><h2>Segunda Sprint</h2></summary>
+
+### Entregáveis:
+
+* O Processo de agrupamento
+* A Revisão
+* Melhorias no Banco de Dados
+* Melhorias na Dashboard
+
+</details>
