@@ -136,4 +136,8 @@ Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-m
 * Melhorias no Banco de Dados
 * Melhorias na Dashboard
 
+#### Burndown:
+
+<img src="https://media.discordapp.net/attachments/962838523302535198/1236783833538625576/image.png?ex=66394434&is=6637f2b4&hm=00087bc1620b36339dbc366c95b4a56f083584d906afeb4279001aaf75d26e8a&=&format=webp&quality=lossless"></img>
+
 </details>
