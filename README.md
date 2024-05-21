@@ -235,7 +235,7 @@ Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-m
 → [Voltar ao topo](#topo)
 
 <span id="entregas">
-### 🎯 Entregas
+<h2> 🎯 Entregas </h2>
 
 Sprint ID | Data | Tag | Status
 ----------|------|-----|--------
