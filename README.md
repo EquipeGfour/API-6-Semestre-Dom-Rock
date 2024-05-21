@@ -34,6 +34,93 @@ Este sistema inovador pode ser aplicado em diversos setores para analisar feedba
 
 O sistema de sumarização automática de comentários de clientes com IA é uma ferramenta poderosa que oferece diversos benefícios para empresas que buscam aprimorar a análise de feedback, tomar decisões mais assertivas e oferecer uma experiência superior aos seus clientes.
 
+## Backlog
+
+**Introdução:**
+
+Este documento descreve o backlog de tarefas para o desenvolvimento do [nome do projeto]. O backlog é organizado por área de trabalho (Frontend, Backend e PLN) e priorizado por nível de importância (Alta, Média e Baixa).
+
+**Frontend:**
+
+* **Criar tela de login/cadastro de usuários:**
+    * Implementar formulários para criação de novas contas e autenticação de usuários existentes.
+    * Validar entradas de dados e fornecer feedback ao usuário.
+    * Integrar com o sistema de autenticação do backend.
+* **Implementar funcionalidade de upload de arquivo:**
+    * Permitir que os usuários carreguem arquivos de texto para sumarização.
+    * Suporte para diferentes formatos de arquivo (por exemplo, .txt, .pdf, .docx).
+    * Indicar o status do upload e fornecer feedback ao usuário.
+* **Criar barra de progresso e indicador de tempo restante:**
+    * Visualizar o progresso do processamento de sumarização em tempo real.
+    * Estimar o tempo restante para a conclusão do processo.
+* **Desenvolver dashboard com visualizações dos sumários:**
+    * Apresentar os sumários gerados de forma organizada e intuitiva.
+    * Permitir que os usuários filtrem e explorem os sumários por diferentes critérios.
+    * Oferecer opções para baixar os sumários em diferentes formatos.
+* **Implementar filtros e opções de download:**
+    * Permitir que os usuários filtrem os sumários por produto, categoria, data e outros critérios.
+    * Oferecer opções para baixar os sumários em formato PDF, CSV ou outros formatos desejados.
+
+**Backend:**
+
+* **Definir estrutura da API REST e documentá-la:**
+    * Projetar uma API REST robusta e fácil de usar para interação com o sistema.
+    * Documentar a API de forma clara e concisa, incluindo endpoints, métodos HTTP, parâmetros e respostas.
+* **Implementar endpoints para upload, processamento e consulta de resultados:**
+    * Criar endpoints para upload de arquivos, processamento de sumarização e consulta de resultados.
+    * Validar requisições e retornar respostas adequadas em formato JSON.
+    * Tratar erros e fornecer mensagens informativas ao usuário.
+* **Integrar modelo PLN de sumarização:**
+    * Integrar o modelo de sumarização PLN com o backend para processar os arquivos enviados pelos usuários.
+    * Chamar o modelo PLN de forma assíncrona para otimizar o desempenho.
+    * Armazenar os resultados da sumarização no banco de dados.
+* **Armazenar dados e resultados em banco de dados:**
+    * Criar um banco de dados para armazenar informações sobre usuários, arquivos, resultados de sumarização e outros dados relevantes.
+    * Implementar consultas eficientes para recuperar e gerenciar os dados armazenados.
+    * Garantir a segurança e integridade dos dados.
+* **Implementar sistema de autenticação de usuários:**
+    * Implementar um sistema de autenticação seguro para proteger o acesso ao sistema.
+    * Permitir que os usuários criem contas, autentiquem-se e gerenciem suas informações.
+    * Integrar o sistema de autenticação com a API REST.
+
+**PLN:**
+
+* **Coletar e preparar dataset de comentários de clientes:**
+    * Reunir um conjunto de dados de comentários de clientes relevantes para o domínio do projeto.
+    * Limpar e pré-processar os dados para garantir sua qualidade e adequação para treinamento do modelo.
+* **Treinar modelo de sumarização de textos:**
+    * Treinar um modelo de sumarização de textos usando o dataset de comentários de clientes preparado.
+    * Experimentar diferentes arquiteturas de modelo e técnicas de treinamento para otimizar o desempenho.
+    * Avaliar o desempenho do modelo em conjunto de dados de validação.
+* **Otimizar modelo para melhor desempenho e qualidade:**
+    * Ajustar os hiperparâmetros do modelo para obter o melhor desempenho possível.
+    * Experimentar diferentes técnicas de otimização para reduzir o tempo de treinamento e melhorar a precisão.
+    * Monitorar o desempenho do modelo em produção e fazer ajustes conforme necessário.
+* **Avaliar e ajustar modelo para diferentes tipos de produtos e categorias:**
+    * Avaliar o desempenho do modelo em diferentes tipos de produtos e categorias.
+    * Ajustar o modelo para lidar com diferentes estilos de escrita e tópicos.
+    * Garantir que o modelo seja robusto e generalize bem para diferentes tipos de dados.
+
+**Priorização:**
+
+**Prioridade Alta:**
+
+* Upload de arquivo e processamento assíncrono
+* Sumarização por produto e categorias
+* Visualização dos sumários no dashboard
+
+**Prioridade Média:**
+
+* Sumarização por recomendação e geografia/demografia
+* Filtros e opções de download
+* Autenticação de usuários
+
+**Prioridade Baixa:**
+
+* Refinamento do modelo PLN
+* Monitoramento do sistema e logs de erros
+
+
 **Repositórios Do Projeto:**
 
 * Repositório Front-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Front-end
