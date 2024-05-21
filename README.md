@@ -234,44 +234,14 @@ Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-m
 → [Voltar ao topo](#topo)
 
 
+### 🎯 Entregas
 
-<details>
-    <summary><h2>Segunda Sprint</h2></summary>
+Sprint ID | Data | Tag | Status
+----------|------|-----|--------
+#1 | 25/03 - 14/04 |[Sprint 1](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/v1.0.0)|✅ Concluída|
+#2 | 14/04 - 05/05 |[Sprint 2](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/v2.0.0) |✅ Concluída|
+#3 | 06/05 - 26/05 |[Sprint 3](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/v3.0.0)|Em desenvolvimento| 
+#4 | 27/05 - 16/06 |[Sprint 4]()|Não Iniciada| 
+<br>
 
-### Entregáveis:
-
-* O Processo de Agrupamento
-* A Revisão
-* Melhorias no Banco de Dados
-* Melhorias na Dashboard
-
-#### Burndown:
-
-<img src="https://media.discordapp.net/attachments/962838523302535198/1236783833538625576/image.png?ex=66394434&is=6637f2b4&hm=00087bc1620b36339dbc366c95b4a56f083584d906afeb4279001aaf75d26e8a&=&format=webp&quality=lossless"></img>
-
-</details>
-
-<details>
-    <summary><h2>Terceira Sprint</h2></summary>
-
-### Entregáveis:
-
-* Sumarização Extrativa por Sentença
-* Análise de Frequência de Palavras
-* Gráfico Radar com Dados de Gênero e Idade
-* Melhorias na Dashboard
-
-</details>    
-
-<details>
-    <summary><h2>Quarta Sprint</h2></summary>
-
-### Entregáveis:
-
-* login 
-* Autenticação de Usuário
-* Cadastro de Usuário
-* Histórico de Processamento
-* Sumarização Generativa (Se Possível)
-
-</details>    
+→ [Voltar ao topo](#topo)
