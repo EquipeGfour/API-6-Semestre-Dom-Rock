@@ -38,7 +38,7 @@ O sistema de sumarização automática de comentários de clientes com IA é uma
 
 **Introdução:**
 
-Este documento descreve o backlog de tarefas para o desenvolvimento do [nome do projeto]. O backlog é organizado por área de trabalho (Frontend, Backend e PLN) e priorizado por nível de importância (Alta, Média e Baixa).
+Este documento descreve o backlog de tarefas para o desenvolvimento do API com a Empresa Dom Rock. O backlog é organizado por área de trabalho (Frontend, Backend e PLN) e priorizado por nível de importância (Alta, Média e Baixa).
 
 **Frontend:**
 
