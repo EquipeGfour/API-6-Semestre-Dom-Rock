@@ -240,9 +240,9 @@ Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-m
 Sprint ID | Data | Tag | Status
 ----------|------|-----|--------
 #0 | 04/03 - 08/03 | Kick - Off | :stopwatch: |
-#1 | 25/03 - 14/04 |[Sprint 1](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/v1.0.0)|✅ Concluída|
-#2 | 14/04 - 05/05 |[Sprint 2](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/v2.0.0) |✅ Concluída|
-#3 | 06/05 - 26/05 |[Sprint 3](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/v3.0.0)|Em desenvolvimento| 
+#1 | 25/03 - 14/04 |[Sprint 1](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/Sprint_1)|✅ Concluída|
+#2 | 14/04 - 05/05 |[Sprint 2](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/Sprint_2) |✅ Concluída|
+#3 | 06/05 - 26/05 |[Sprint 3](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/Sprint_3)|Em desenvolvimento| 
 #4 | 27/05 - 16/06 |[Sprint 4]()|Não Iniciada| 
 #5 | 27/06 | Feira de Soluções | :trophy: |
 <br>
