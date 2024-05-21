@@ -14,6 +14,7 @@
     <a href="#backlog">BackLog</a>  |
     <a href="#repositorio">Repositórios do Projeto</a>  |
     <a href="#equipe">G-Four</a>  |
+    <a href="#entregas">Entregas</a>  |
 </p>
 
 <span id="objetivo">
@@ -233,7 +234,7 @@ Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-m
 
 → [Voltar ao topo](#topo)
 
-
+<span id="entregas">
 ### 🎯 Entregas
 
 Sprint ID | Data | Tag | Status
