@@ -194,7 +194,7 @@ Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-m
 ### Tecnologias Utilizadas
 
 * Figma: Para o Mockup
-* MySql: Para o banco de dados
+* MySql: Para o Banco de Dados
 * Python: Para a PLN
 * Python com o Framework FastAPI: Para o Backend
 * JavaScrip com React: Para o Frontend
@@ -208,8 +208,8 @@ Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-m
 ### Entregáveis:
     
 * Pré-processamento
-* Upload de arquivos
-* Tela de visualização do processamento
+* Upload de Arquivos
+* Tela de Visualização do Processamento
 
 </details>
 
@@ -218,7 +218,7 @@ Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-m
 
 ### Entregáveis:
 
-* O Processo de agrupamento
+* O Processo de Agrupamento
 * A Revisão
 * Melhorias no Banco de Dados
 * Melhorias na Dashboard
@@ -228,3 +228,28 @@ Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-m
 <img src="https://media.discordapp.net/attachments/962838523302535198/1236783833538625576/image.png?ex=66394434&is=6637f2b4&hm=00087bc1620b36339dbc366c95b4a56f083584d906afeb4279001aaf75d26e8a&=&format=webp&quality=lossless"></img>
 
 </details>
+
+<details>
+    <summary><h2>Terceira Sprint</h2></summary>
+
+### Entregáveis:
+
+* Sumarização Extrativa por Sentença
+* Análise de Frequência de Palavras
+* Gráfico Radar com Dados de Gênero e Idade
+* Melhorias na Dashboard
+
+</details>    
+
+<details>
+    <summary><h2>Quarta Sprint</h2></summary>
+
+### Entregáveis:
+
+* login 
+* Autenticação de Usuário
+* Cadastro de Usuário
+* Histórico de Processamento
+* Sumarização Generativa (Se Possível)
+
+</details>    
