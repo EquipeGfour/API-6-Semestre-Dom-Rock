@@ -31,6 +31,8 @@ O objetivo deste projeto é desenvolver um sistema inovador que utiliza intelig�
 * **Visualização intuitiva:** Os resultados da análise são apresentados em dashboards interativos e intuitivos, com gráficos, tabelas e filtros que facilitam a compreensão e a visualização dos dados.
 * **Exportação de dados:** O sistema permite exportar os resultados para diferentes formatos, como PDF, CSV e outros, para compartilhamento e análise posterior.
 
+→ [Voltar ao topo](#topo)
+
 <span id="benefícios">
 <h2> Benefícios: </h2>
 
@@ -38,6 +40,8 @@ O objetivo deste projeto é desenvolver um sistema inovador que utiliza intelig�
 * **Melhoria na tomada de decisões:** A análise de sentiment e a segmentação por critérios fornecem insights valiosos que auxiliam na tomada de decisões estratégicas e na identificação de áreas de melhoria.
 * **Maior compreensão dos clientes:** O sistema ajuda a entender melhor as necessidades, expectativas e percepções dos clientes, possibilitando a criação de produtos e serviços mais relevantes e personalizados.
 * **Aumento da produtividade:** A automatização da sumarização libera tempo para que as equipes se concentrem em tarefas mais estratégicas e de alto valor.
+
+→ [Voltar ao topo](#topo)
 
 <span id="aplicações">
 <h2> Aplicações: </h2>
@@ -49,10 +53,14 @@ Este sistema inovador pode ser aplicado em diversos setores para analisar feedba
 * **Pesquisa de mercado:** Coletar insights sobre tendências, preferências do público e oportunidades de mercado.
 * **Desenvolvimento de produtos:** Obter feedback sobre novos produtos, identificar necessidades dos clientes e aprimorar o processo de desenvolvimento.
 
+→ [Voltar ao topo](#topo)
+
 <span id="conclusão">
 <h2> Conclusão: </h2>
 
 O sistema de sumarização automática de comentários de clientes com IA é uma ferramenta poderosa que oferece diversos benefícios para empresas que buscam aprimorar a análise de feedback, tomar decisões mais assertivas e oferecer uma experiência superior aos seus clientes.
+
+→ [Voltar ao topo](#topo)
 
 <span id="backlog">
 <h2> Backlog: </h2>
@@ -198,7 +206,7 @@ Este documento descreve o backlog de tarefas para o desenvolvimento do API com a
 * Python com o Framework FastAPI: Para o Backend
 * JavaScrip com React: Para o Frontend
 
-<br>
+→ [Voltar ao topo](#topo)
 
 <span id="repositorio">
 <h2> Repositórios Do Projeto: </h2>
@@ -206,6 +214,8 @@ Este documento descreve o backlog de tarefas para o desenvolvimento do API com a
 * Repositório Front-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Front-end
 * Repositório Back-End: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-Back-end
 * Repositório PLN: https://github.com/EquipeGfour/API-6Semestre-Dom-Rock-PLN
+
+→ [Voltar ao topo](#topo)
 
 <span id="equipe">
 <h2> 🎓 Equipe GFour </h2>
@@ -221,20 +231,9 @@ Kevin Ferreira Mirenda | SM | [Linkedin](https://br.linkedin.com/in/vin%C3%ADciu
 Raniel Francisco Santos de Paula | Dev | [Linkedin](https://www.linkedin.com/in/raniel-santos-204878222/)| [Github](https://github.com/Raniel-Santos)|
 Vinícius Andrade Barborsa | Dev | [Linkedin](https://br.linkedin.com/in/kevin-mirenda-a54a64220) | [Github](https://github.com/ViniciusAndBar)
 
-<br>
+→ [Voltar ao topo](#topo)
 
 
-
-<details>
-     <summary><h2>Primeira Sprint</h2></summary>
-
-### Entregáveis:
-    
-* Pré-processamento
-* Upload de Arquivos
-* Tela de Visualização do Processamento
-
-</details>
 
 <details>
     <summary><h2>Segunda Sprint</h2></summary>
