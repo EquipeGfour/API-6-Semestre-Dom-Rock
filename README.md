@@ -243,7 +243,7 @@ Sprint ID | Data | Tag | Status
 #1 | 25/03 - 14/04 |[Sprint 1](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/Sprint_1)|✅ Concluída|
 #2 | 14/04 - 05/05 |[Sprint 2](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/Sprint_2) |✅ Concluída|
 #3 | 06/05 - 26/05 |[Sprint 3](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/Sprint_3)|✅ Concluída| 
-#4 | 27/05 - 16/06 |[Sprint 4]()|Em Andamento| 
+#4 | 27/05 - 16/06 |[Sprint 4](https://github.com/EquipeGfour/API-6-Semestre-Dom-Rock/releases/tag/Sprint_4)|Em Andamento| 
 #5 | 27/06 | Feira de Soluções | :trophy: |
 <br>
 
